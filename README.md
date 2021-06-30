@@ -1,0 +1,1 @@
+Minimal Rock-paper-scissors
